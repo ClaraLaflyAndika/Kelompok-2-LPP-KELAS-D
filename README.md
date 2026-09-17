@@ -9,11 +9,12 @@
 
 | No. | Name | Student ID | Role |
 |---|---|---|---|
-| 1 | Student 1 | XXXXX | Project Coordinator |
-| 2 | Student 2 | XXXXX | Algorithm |
-| 3 | Student 3 | XXXXX | Flowchart |
-| 4 | Student 4 | XXXXX | JavaScript |
-| 5 | Student 5 | XXXXX | Testing & Documentation |
+| 1 | Joearta L.G.P Sihaloho | 2610312131 | Project Coordinator |
+| 2 | Nizar Ali Shibli | 2610312115 | Algorithm |
+| 3 | Clara Lafly Andika | 2610312124 | Flowchart |
+| 4 | Aura Cahaya | 2610312126 | JavaScript |
+| 5 | Khairan Althafby Hermawan | 2610312120 | Testing & Documentation |
+
 
 ---
 
