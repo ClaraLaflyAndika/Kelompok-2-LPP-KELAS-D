@@ -2,8 +2,8 @@
 
 ## 1. Group Information
 
-**Class:** A/B/C/D  
-**Group:** 1
+**Class:** D  
+**Group:** 2
 
 ### Group Members
 
@@ -19,7 +19,7 @@
 
 ## 2. Project Title
 
-Number Guessing Game
+Simple ATM Simulator
 
 ---
 
