@@ -12,8 +12,9 @@
 | 1 | Joearta L.G.P Sihaloho | 2610312131 | Project Coordinator |
 | 2 | Nizar Ali Shibli | 2610312115 | Algorithm |
 | 3 | Clara Lafly Andika | 2610312124 | Flowchart |
-| 4 | Aura Cahaya | 2610312126 | JavaScript |
-| 5 | Khairan Althafby Hermawan | 2610312120 | Testing & Documentation |
+| 4 | Aura Cahaya Khamilah | 2610312126 | JavaScript |
+| 5 | Khairan Althafby Hermawan | 2610312120 | JavaScript |
+| 6 | Kemal Irfan Riadi | 2610312133 | Testing & Documentation |
 
 
 ---
