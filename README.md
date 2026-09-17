@@ -1,4 +1,4 @@
-# Mini Programming Project
+# Mini Programming Project Kelompok 2 Kelas D
 
 ## 1. Group Information
 
