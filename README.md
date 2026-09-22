@@ -92,7 +92,7 @@ The flowchart is created using Flowgorithm.
 
 File:
 
-''
+[Flowchart](./flowgorithm%20kelompok%202%20LPP.fprg)
 
 
 ---
