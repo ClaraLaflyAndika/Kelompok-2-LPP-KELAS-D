@@ -1,0 +1,66 @@
+PSEUDOCODE
+
+MULAI
+
+    DEKLARASIKAN saldo, jumlah, pilihan SEBAGAI INTEGER
+
+    saldo ← 0
+    pilihan ← 0
+
+    SELAMA pilihan ≠ 4 LAKUKAN
+
+        TAMPILKAN "===== MENU ATM ====="
+        TAMPILKAN "1. Cek Saldo"
+        TAMPILKAN "2. Setor Uang"
+        TAMPILKAN "3. Tarik Uang"
+        TAMPILKAN "4. Keluar"
+        TAMPILKAN "Pilih menu"
+        MASUKKAN pilihan
+
+        JIKA pilihan = 1 MAKA
+            TAMPILKAN "Saldo saat ini:"
+            TAMPILKAN saldo
+
+        JIKA TIDAK, JIKA pilihan = 2 MAKA
+            TAMPILKAN "Masukkan jumlah setor:"
+            MASUKKAN jumlah
+
+            JIKA jumlah > 0 MAKA
+                saldo ← saldo + jumlah
+                TAMPILKAN "Setor uang berhasil"
+                TAMPILKAN "Saldo sekarang:"
+                TAMPILKAN saldo
+            JIKA TIDAK
+                TAMPILKAN "Jumlah setor harus lebih dari 0"
+            AKHIR JIKA
+
+        JIKA TIDAK, JIKA pilihan = 3 MAKA
+            TAMPILKAN "Masukkan jumlah tarik:"
+            MASUKKAN jumlah
+
+            JIKA jumlah > 0 MAKA
+                JIKA jumlah ≤ saldo MAKA
+                    saldo ← saldo - jumlah
+                    TAMPILKAN "Penarikan berhasil"
+                    TAMPILKAN "Saldo sekarang:"
+                    TAMPILKAN saldo
+                JIKA TIDAK
+                    TAMPILKAN "Saldo tidak mencukupi"
+                AKHIR JIKA
+            JIKA TIDAK
+                TAMPILKAN "Jumlah penarikan harus lebih dari 0"
+            AKHIR JIKA
+
+        JIKA TIDAK, JIKA pilihan = 4 MAKA
+            TAMPILKAN "Terima kasih telah menggunakan ATM"
+
+        JIKA TIDAK
+            TAMPILKAN "Pilihan tidak valid."
+        AKHIR JIKA
+
+    AKHIR SELAMA
+
+    TAMPILKAN "Saldo akhir:"
+    TAMPILKAN saldo
+
+SELESAI
