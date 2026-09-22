@@ -82,7 +82,7 @@ The program displays:
 
 The algorithm used in the program is described in:
 
-`pseudocode.txt`
+[pseudocode_atm.txt](pseudocode_atm.txt)
 
 ---
 
@@ -92,7 +92,7 @@ The flowchart is created using Flowgorithm.
 
 File:
 
-[Flowchart](flowgorithm kelompok 2 LPP.fprg)
+''
 
 
 ---
@@ -101,7 +101,7 @@ File:
 
 The JavaScript implementation of the program is available in:
 
-`program.js`
+[atm.js](atm.js)
 
 ---
 
